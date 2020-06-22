@@ -8,8 +8,10 @@ Post your work on github
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+In this file bikeshare.pd file was used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was created by umit baran
+mail adress: umit baran@turkcell.com.tr
+
 
