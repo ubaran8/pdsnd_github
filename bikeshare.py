@@ -21,6 +21,7 @@ def get_filters():
     
     city = input('\nWould you like to see data for Chicago, New York, or Washington?\n').lower()
     #lower is used to get input in any format
+    #function was completed
 
     while(True):
         if(city == 'chicago' or city == 'new york' or city == 'washington' or city == 'all'):
